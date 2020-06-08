@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://yafei23.github.io</id>
     <title>ColdWater</title>
-    <updated>2020-06-08T10:17:36.748Z</updated>
+    <updated>2020-06-08T10:27:27.192Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://yafei23.github.io"/>
     <link rel="self" href="https://yafei23.github.io/atom.xml"/>
@@ -10,6 +10,23 @@
     <logo>https://yafei23.github.io/images/avatar.png</logo>
     <icon>https://yafei23.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, ColdWater</rights>
+    <entry>
+        <title type="html"><![CDATA[2020/6/8]]></title>
+        <id>https://yafei23.github.io/post/202068/</id>
+        <link href="https://yafei23.github.io/post/202068/">
+        </link>
+        <updated>2020-06-08T10:23:16.000Z</updated>
+        <content type="html"><![CDATA[<h3 id="202068">2020/6/8</h3>
+<p>CPU 只有一天超过了 75%，就是昨天下午开始走一个三分钟代理视频的时候，800兆瞬间就成为了7天之内最高负荷。其他时间也只有软件开启的一瞬间会内存飙升。</p>
+<p>看来大视频切换代理和渲染是试金石了。</p>
+<p>但换句话来说：没有作品输出设备更换就无从谈起。性能冗余的空间足够做好多事情了，不要整天满脑子都是设备设备，这不是设备的问题。</p>
+<blockquote>
+<p>单单就有心这两个字，做到就很难。</p>
+</blockquote>
+<hr>
+<p>目前书写体验还好，能不能坚持下来就看你怎么看待这件事了。</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2020/6/8 心血来潮写博客]]></title>
         <id>https://yafei23.github.io/post/202068-xin-xie-lai-chao-xie-bo-ke/</id>
